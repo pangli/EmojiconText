@@ -1,3 +1,3 @@
 # EmojiconText
 显示图片的TexeView
-![](https://github.com/guodongxiaren/ImageCache/raw/master/effect.jpg)  
+![](https://github.com/pangli/EmojiconText/raw/master/effect.jpg)  
